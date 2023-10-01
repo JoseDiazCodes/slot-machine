@@ -35,8 +35,7 @@ A fun and interactive slot machine game built using HTML, CSS, and JavaScript.
 ## Setup and Run
 
 1. **Clone the repository**:
-2.
-3. **Open the game**:
+2. **Open the game**:
 
 - Simply open `index.html` in your preferred web browser.
 
@@ -47,4 +46,5 @@ A fun and interactive slot machine game built using HTML, CSS, and JavaScript.
 - Add more emojis and varied reel outcomes.
 - Implement bonus rounds or a jackpot feature.
 - Introduce user account functionalities with saved balances.
+
 # slot-machine
