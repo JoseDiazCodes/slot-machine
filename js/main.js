@@ -1,3 +1,17 @@
+/* Pseudo Code 
+
+1. Look at specific parts of our webpage: where the money is shown, the betting buttons, the big spin button, and the result area.
+2. Place a smurf on each button and tell the smurf what to do when called.
+3. Give the player a starting amount of money ($1000) and remember they haven’t chosen their bet yet.
+4. Write down the emoji symbols the slot machine can show.
+5. Choose a random emoji from our list.
+6. Show the player their current money.
+7. Tell the smurfs on the betting buttons what to do when called: set the bet to a small or big amount.
+8. Decide the outcome when the player doesn’t get the same emojis: show them different emojis and take away their bet money.
+9. The big spin: check if the emojis match to see if the player wins or loses, then adjust their money.
+10. First things first, show the player their starting money amount.
+*/
+
 const balanceElement = document.getElementById("balance");
 const minBetButton = document.querySelector(".bet-btn.min-bet");
 const maxBetButton = document.querySelector(".bet-btn.max-bet");
