@@ -47,3 +47,4 @@ A fun and interactive slot machine game built using HTML, CSS, and JavaScript.
 - Add more emojis and varied reel outcomes.
 - Implement bonus rounds or a jackpot feature.
 - Introduce user account functionalities with saved balances.
+# complexcalc
